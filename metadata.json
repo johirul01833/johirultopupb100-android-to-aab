@@ -1,0 +1,6 @@
+{
+  "name": "Chamet Top Up BD",
+  "description": "Professional top-up & payment exchange app for TikTok Coins, Chamet Diamonds, EPAY Dollar, and BD-India currency exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
